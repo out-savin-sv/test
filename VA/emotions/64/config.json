@@ -7,7 +7,7 @@
       "id": "shazam",
       "name": "64_shazam_sber.zip",
       "required_in_startup": true,
-      "revision": 6,
+      "revision": 7,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_shazam_sber.zip"
     },
     {
@@ -17,7 +17,7 @@
       "id": "smushchennaya_ulibka",
       "name": "64_smushchennaya_ulibka_sber.zip",
       "required_in_startup": true,
-      "revision": 6,
+      "revision": 7,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_smushchennaya_ulibka_sber.zip"
     },
     {
@@ -27,7 +27,7 @@
       "id": "predvkusheniye",
       "name": "64_predvkusheniye_eva.zip",
       "required_in_startup": true,
-      "revision": 4,
+      "revision": 5,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_predvkusheniye_eva.zip"
     },
     {
@@ -76,8 +76,8 @@
       ],
       "id": "simpatiya",
       "name": "64_simpatiya_eva.zip",
-      "required_in_startup": false,
-      "revision": 3,
+      "required_in_startup": true,
+      "revision": 4,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_simpatiya_eva.zip"
     },
     {
@@ -86,8 +86,8 @@
       ],
       "id": "ok_prinyato",
       "name": "64_ok_prinyato_joy.zip",
-      "required_in_startup": false,
-      "revision": 3,
+      "required_in_startup": true,
+      "revision": 4,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_ok_prinyato_joy.zip"
     },
     {
@@ -96,8 +96,8 @@
       ],
       "id": "udovolstvie",
       "name": "64_udovolstvie_eva.zip",
-      "required_in_startup": false,
-      "revision": 3,
+      "required_in_startup": true,
+      "revision": 4,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_udovolstvie_eva.zip"
     },
     {
