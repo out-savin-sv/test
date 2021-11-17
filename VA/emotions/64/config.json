@@ -7,7 +7,7 @@
       "id": "shazam",
       "name": "64_shazam_sber.zip",
       "required_in_startup": true,
-      "revision": 4,
+      "revision": 5,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_shazam_sber.zip"
     },
     {
@@ -27,7 +27,7 @@
       "id": "predvkusheniye",
       "name": "64_predvkusheniye_eva.zip",
       "required_in_startup": false,
-      "revision": 4,
+      "revision": 5,
       "url": "https://cdn.sberbank.ru/CDNORIGIN/VA/emotions/64/64_predvkusheniye_eva.zip"
     },
     {
